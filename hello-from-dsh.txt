@@ -1,3 +1,0 @@
-﻿This file was pushed by DeepSeek Harness as an end-to-end verification.
-time: 2026-10-17 10:06:22 +08:00
-purpose: verify clone -> commit -> push over SSH
